@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RewRes/Scene/T1/T1.unity
+  isLoaded: 1
+  isActive: 1
