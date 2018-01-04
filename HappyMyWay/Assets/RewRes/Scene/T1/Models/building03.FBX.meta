@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 500db398205c4344c93ea262802b5d7a
+timeCreated: 1515037825
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Garage 1
+    100004: Level
+    100006: MAST
+    100008: MWreck
+    100010: OvalPart1
+    100012: Ovalpart2
+    100014: P_Barrier1
+    100016: P_Barrier2
+    100018: P_Barrier3
+    100020: P_Barrier4
+    100022: Wire1
+    100024: Wire1_MeshPart0
+    100026: Wire1_MeshPart1
+    100028: Wreck1
+    100030: Wreck2
+    100032: Wreck3
+    100034: Wreck4
+    100036: Wreck5
+    400000: //RootNode
+    400002: Garage 1
+    400004: Level
+    400006: MAST
+    400008: MWreck
+    400010: OvalPart1
+    400012: Ovalpart2
+    400014: P_Barrier1
+    400016: P_Barrier2
+    400018: P_Barrier3
+    400020: P_Barrier4
+    400022: Wire1
+    400024: Wire1_MeshPart0
+    400026: Wire1_MeshPart1
+    400028: Wreck1
+    400030: Wreck2
+    400032: Wreck3
+    400034: Wreck4
+    400036: Wreck5
+    2300000: Garage 1
+    2300002: Level
+    2300004: MAST
+    2300006: MWreck
+    2300008: OvalPart1
+    2300010: Ovalpart2
+    2300012: P_Barrier1
+    2300014: P_Barrier2
+    2300016: P_Barrier3
+    2300018: P_Barrier4
+    2300020: Wire1_MeshPart0
+    2300022: Wire1_MeshPart1
+    2300024: Wreck1
+    2300026: Wreck2
+    2300028: Wreck3
+    2300030: Wreck4
+    2300032: Wreck5
+    3300000: Garage 1
+    3300002: Level
+    3300004: MAST
+    3300006: MWreck
+    3300008: OvalPart1
+    3300010: Ovalpart2
+    3300012: P_Barrier1
+    3300014: P_Barrier2
+    3300016: P_Barrier3
+    3300018: P_Barrier4
+    3300020: Wire1_MeshPart0
+    3300022: Wire1_MeshPart1
+    3300024: Wreck1
+    3300026: Wreck2
+    3300028: Wreck3
+    3300030: Wreck4
+    3300032: Wreck5
+    4300000: Garage
+    4300002: P_Barrier4
+    4300004: P_Barrier3
+    4300006: P_Barrier2
+    4300008: P_Barrier1
+    4300010: MAST
+    4300012: MWreck
+    4300014: OvalPart1
+    4300016: Ovalpart2
+    4300018: Wire1_MeshPart0
+    4300020: Wire1_MeshPart1
+    4300022: Wreck3
+    4300024: Wreck1
+    4300026: Wreck2
+    4300028: Level
+    4300030: Wreck4
+    4300032: Wreck5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

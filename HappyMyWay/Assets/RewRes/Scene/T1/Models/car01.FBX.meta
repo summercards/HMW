@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 95b6cdfecdca7364ab205539071d94c5
+timeCreated: 1515037830
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_Viper09
+    100002: A_Viper10
+    100004: Bumper04
+    100006: Cabin04
+    100008: //RootNode
+    100010: Crown04
+    100012: DoorB21
+    100014: DoorB22
+    100016: DoorF21
+    100018: DoorF22
+    100020: Fare04
+    100022: Gear10
+    100024: LagH10
+    100026: MotorH10
+    100028: Plate04
+    100030: Radio04
+    100032: RadioB04
+    100034: Seat21
+    100036: Seat22
+    100038: SeatB10
+    100040: Signal10
+    100042: SWheel10
+    100044: TAXI04
+    100046: Wheel41
+    100048: Wheel42
+    100050: Wheel43
+    100052: Wheel44
+    400000: A_Viper09
+    400002: A_Viper10
+    400004: Bumper04
+    400006: Cabin04
+    400008: //RootNode
+    400010: Crown04
+    400012: DoorB21
+    400014: DoorB22
+    400016: DoorF21
+    400018: DoorF22
+    400020: Fare04
+    400022: Gear10
+    400024: LagH10
+    400026: MotorH10
+    400028: Plate04
+    400030: Radio04
+    400032: RadioB04
+    400034: Seat21
+    400036: Seat22
+    400038: SeatB10
+    400040: Signal10
+    400042: SWheel10
+    400044: TAXI04
+    400046: Wheel41
+    400048: Wheel42
+    400050: Wheel43
+    400052: Wheel44
+    2300000: A_Viper09
+    2300002: A_Viper10
+    2300004: Bumper04
+    2300006: Cabin04
+    2300008: Crown04
+    2300010: DoorB21
+    2300012: DoorB22
+    2300014: DoorF21
+    2300016: DoorF22
+    2300018: Fare04
+    2300020: Gear10
+    2300022: LagH10
+    2300024: MotorH10
+    2300026: Plate04
+    2300028: Radio04
+    2300030: RadioB04
+    2300032: Seat21
+    2300034: Seat22
+    2300036: SeatB10
+    2300038: Signal10
+    2300040: SWheel10
+    2300042: TAXI04
+    2300044: Wheel41
+    2300046: Wheel42
+    2300048: Wheel43
+    2300050: Wheel44
+    3300000: A_Viper09
+    3300002: A_Viper10
+    3300004: Bumper04
+    3300006: Cabin04
+    3300008: Crown04
+    3300010: DoorB21
+    3300012: DoorB22
+    3300014: DoorF21
+    3300016: DoorF22
+    3300018: Fare04
+    3300020: Gear10
+    3300022: LagH10
+    3300024: MotorH10
+    3300026: Plate04
+    3300028: Radio04
+    3300030: RadioB04
+    3300032: Seat21
+    3300034: Seat22
+    3300036: SeatB10
+    3300038: Signal10
+    3300040: SWheel10
+    3300042: TAXI04
+    3300044: Wheel41
+    3300046: Wheel42
+    3300048: Wheel43
+    3300050: Wheel44
+    4300000: Crown04
+    4300002: SeatB10
+    4300004: DoorF21
+    4300006: Seat21
+    4300008: DoorB21
+    4300010: A_Viper09
+    4300012: A_Viper10
+    4300014: MotorH10
+    4300016: LagH10
+    4300018: DoorF22
+    4300020: DoorB22
+    4300022: Seat22
+    4300024: Gear10
+    4300026: SWheel10
+    4300028: Signal10
+    4300030: Wheel41
+    4300032: Wheel42
+    4300034: Wheel43
+    4300036: Wheel44
+    4300038: Plate04
+    4300040: Bumper04
+    4300042: TAXI04
+    4300044: Cabin04
+    4300046: Radio04
+    4300048: Fare04
+    4300050: RadioB04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
