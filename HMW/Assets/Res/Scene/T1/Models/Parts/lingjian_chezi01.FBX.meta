@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: f48dcfa8371b28548afef11b392e5a2b
+timeCreated: 1517390730
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CrownW05
+    100002: DoorB17
+    100004: DoorB18
+    100006: DoorF17
+    100008: DoorF18
+    100010: Gear08
+    100012: LagH08
+    100014: //RootNode
+    100016: MotorH08
+    100018: Seat17
+    100020: Seat18
+    100022: SeatB08
+    100024: Signal08
+    100026: SWheel08
+    100028: Wheel33
+    100030: Wheel34
+    100032: Wheel35
+    100034: Wheel36
+    400000: CrownW05
+    400002: DoorB17
+    400004: DoorB18
+    400006: DoorF17
+    400008: DoorF18
+    400010: Gear08
+    400012: LagH08
+    400014: //RootNode
+    400016: MotorH08
+    400018: Seat17
+    400020: Seat18
+    400022: SeatB08
+    400024: Signal08
+    400026: SWheel08
+    400028: Wheel33
+    400030: Wheel34
+    400032: Wheel35
+    400034: Wheel36
+    2300000: CrownW05
+    2300002: DoorB17
+    2300004: DoorB18
+    2300006: DoorF17
+    2300008: DoorF18
+    2300010: Gear08
+    2300012: LagH08
+    2300014: MotorH08
+    2300016: Seat17
+    2300018: Seat18
+    2300020: SeatB08
+    2300022: Signal08
+    2300024: SWheel08
+    2300026: Wheel33
+    2300028: Wheel34
+    2300030: Wheel35
+    2300032: Wheel36
+    3300000: CrownW05
+    3300002: DoorB17
+    3300004: DoorB18
+    3300006: DoorF17
+    3300008: DoorF18
+    3300010: Gear08
+    3300012: LagH08
+    3300014: MotorH08
+    3300016: Seat17
+    3300018: Seat18
+    3300020: SeatB08
+    3300022: Signal08
+    3300024: SWheel08
+    3300026: Wheel33
+    3300028: Wheel34
+    3300030: Wheel35
+    3300032: Wheel36
+    4300000: CrownW05
+    4300002: SeatB08
+    4300004: Wheel33
+    4300006: Seat17
+    4300008: DoorB17
+    4300010: MotorH08
+    4300012: LagH08
+    4300014: DoorF17
+    4300016: DoorB18
+    4300018: Seat18
+    4300020: Gear08
+    4300022: SWheel08
+    4300024: Signal08
+    4300026: Wheel34
+    4300028: Wheel35
+    4300030: Wheel36
+    4300032: DoorF18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
