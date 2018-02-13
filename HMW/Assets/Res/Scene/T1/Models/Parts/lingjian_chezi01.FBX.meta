@@ -23,6 +23,7 @@ ModelImporter:
     100030: Wheel34
     100032: Wheel35
     100034: Wheel36
+    100036: Object021
     400000: CrownW05
     400002: DoorB17
     400004: DoorB18
@@ -41,6 +42,7 @@ ModelImporter:
     400030: Wheel34
     400032: Wheel35
     400034: Wheel36
+    400036: Object021
     2300000: CrownW05
     2300002: DoorB17
     2300004: DoorB18
@@ -58,6 +60,7 @@ ModelImporter:
     2300028: Wheel34
     2300030: Wheel35
     2300032: Wheel36
+    2300034: Object021
     3300000: CrownW05
     3300002: DoorB17
     3300004: DoorB18
@@ -75,6 +78,7 @@ ModelImporter:
     3300028: Wheel34
     3300030: Wheel35
     3300032: Wheel36
+    3300034: Object021
     4300000: CrownW05
     4300002: SeatB08
     4300004: Wheel33
@@ -92,6 +96,7 @@ ModelImporter:
     4300028: Wheel35
     4300030: Wheel36
     4300032: DoorF18
+    4300034: Object021
     9500000: //RootNode
   materials:
     importMaterials: 1
